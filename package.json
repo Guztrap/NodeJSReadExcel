@@ -1,0 +1,17 @@
+{
+  "name": "createqueries",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-xlsx": "^0.15.0",
+    "read-excel-file": "^4.0.1",
+    "string-format": "^2.0.0",
+    "xlsx": "^0.14.3"
+  }
+}
